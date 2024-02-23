@@ -1,6 +1,8 @@
 ### Vue.js TailwindCSS Portfolio
 
-This is a simple and responsive portfolio template built using Vue.js v3 with Vue Router and Tailwind CSS v3. It features a theme switcher with dark mode, Composition API, Vue transitions, reusable components, auto counter component, projects filter by category and search, projects carousel, dynamic forms, scroll to top button, and download file button.
+
+This is a simpl![screencapture-localhost-8080-2024-02-23-17_10_22](https://github.com/ASADFi/vue-protfolio/assets/126611891/659cf734-e589-4a3d-aa51-9ad09653b340)
+e and responsive portfolio template built using Vue.js v3 with Vue Router and Tailwind CSS v3. It features a theme switcher with dark mode, Composition API, Vue transitions, reusable components, auto counter component, projects filter by category and search, projects carousel, dynamic forms, scroll to top button, and download file button.
 
 #### Features
 
