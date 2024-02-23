@@ -35,7 +35,7 @@ To contribute to this project, please read the Contribution Guidelines.
 
 2. Clone the repo:
    ```bash
-   git clone https://github.com/realstoman/vuejs-tailwindcss-portfolio.git
+   git clone https://github.com/ASADFi/vue-protfolio.git
    ```
 
 3. Open the project folder:
