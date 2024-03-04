@@ -22,13 +22,14 @@ export default {
 <template>
 	<transition name="fade">
 		<div v-show="modal" class="font-general-regular fixed inset-0 z-30">
+			
 			<!-- Modal body background as backdrop -->
 			<div
 				v-show="modal"
 				@click="showModal()"
 				class="bg-filter bg-black bg-opacity-50 fixed inset-0 w-full h-full z-20"
 			></div>
-			<!-- Modal content -->
+			
 			<main
 				class="flex flex-col items-center justify-center h-full w-full"
 			>
